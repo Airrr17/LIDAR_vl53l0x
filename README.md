@@ -4,10 +4,10 @@
 ![lidar](lidar_b_s.jpg)  
 
 
-Realtime lidar with TFT screen and autospeed compatibility.
-Up to 1.2m scan range.
-vl53l0x can do fast scanning, but when it comes to rotation the speed is never enough.
-It can do up to about 50 readings per 1 second. In other hand 1 second is too long for a turn.
+Realtime lidar with TFT screen and autospeed compatibility.  
+Up to 1.2m scan range.  
+vl53l0x can do fast scanning, but when it comes to rotation the speed is never enough.  
+It can do up to about 50 readings per 1 second. In other hand 1 second is too long for a turn.  
 
 ![lidar_cropped](lidar_cropped.jpg)
 
@@ -26,5 +26,8 @@ Update TFT library for your connections (DC, RESET...). Drawing takes much cpu t
 
 PWM motor control - D3, Turn sensor - D2. SPI to TFT, I2C to lidar.
 
-This project is just for fun.
-Airrr 02.04.23
+This project is just for fun.  
+
+Video: https://www.youtube.com/watch?v=e8NEqAZh14w  
+
+Airrr 02.04.23  
